@@ -4,6 +4,4 @@ title: Rankings
 permalink: /rankings/
 ---
 
-## Rankibgs
-
-Rankings oficiales de Aitor.
+###Rankings oficiales de Aitor.
